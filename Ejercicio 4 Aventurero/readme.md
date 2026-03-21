@@ -1,6 +1,6 @@
 # ⚔️ Sistema de Clases RPG: Aventureros (Herencia en Python)
 
-Este proyecto es una simulación de un sistema de clases de un videojuego RPG escrito en Python. 
+Este proyecto es una simulación de un sistema de clases de un videojuego RPG o MMO especialmente en el personaje escrito en Python. 
 
 Es un ejemplo perfecto para demostrar la **Herencia** y el **Polimorfismo** en la Programación Orientada a Objetos (POO).
 
