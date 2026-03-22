@@ -6,7 +6,7 @@
 
 ## Grupo 2SS
 
-## Estudiante de Ingenieria en sistemas computacionales en el instituto Tecnologico de Ensenada
+## Estudiante de Ingenieria en sistemas computacionales en el Instituto Tecnologico Nacional de Mexico Campus Ensenada
 
 ### Este repositorio contiene una serie de ejercicios prácticos desarrollados en Python, enfocados en aplicar los pilares de la Programación Orientada a Objetos: Encapsulamiento, Abstracción, Herencia y Polimorfismo.
 
