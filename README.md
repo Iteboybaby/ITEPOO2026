@@ -1,5 +1,13 @@
 # 🐍 Ejercicios de Programación Orientada a Objetos (POO) en Python
 
+👨‍💻 Perfil del Estudiante
+
+Maximino Lopez Garcia
+
+Grupo 2SS
+
+Estudiante de Ingenieria en sistemas computacionales en el instituto Tecnologico de Ensenada
+
 Este repositorio contiene una serie de ejercicios prácticos desarrollados en Python, enfocados en aplicar los pilares de la Programación Orientada a Objetos: Encapsulamiento, Abstracción, Herencia y Polimorfismo.
 
 ## 📂 Estructura del Proyecto
